@@ -8,3 +8,4 @@ while i * (i+1) / 2 < k:
     i += 1
 
 print(i+1)
+
